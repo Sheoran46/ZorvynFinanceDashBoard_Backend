@@ -1,6 +1,6 @@
 package com.example.financedashboard.model;
 
-public enum Transaction {
+public enum TransactionType {
     INCOME,
     EXPENSE
 }
